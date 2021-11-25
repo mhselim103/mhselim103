@@ -20,7 +20,9 @@ I'm Selim, a passionate Web  Developer from Bangladesh.
 <br >
 #### Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/mhselim103/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/mhselim103/count.svg) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mhselim103)
+
 
 #### Github Stats
 
